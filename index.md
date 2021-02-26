@@ -1,4 +1,4 @@
-## Bienvenidos ami página web personal.
+## Bienvenidos a mi página web personal.
 
 You can use the [editor on GitHub](https://github.com/brayan979/brayan979.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
